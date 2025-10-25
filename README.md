@@ -5,13 +5,13 @@ It provides interactive visual insights into how factors like temperature, humid
 
 ##🔹 Key Features
 
-- Interactive filters for Date, Season, and Weather
+- Interactive filters for Date, Season, and Weather.
 
-- KPIs showing Total Rentals, Average Temperature, and Demand Variation
+- KPIs showing Total Rentals, Average Temperature, and Demand Variation.
 
-- Trend analysis of bike usage across different seasons and time periods
+- Trend analysis of bike usage across different seasons and time periods.
 
-- Correlation insights between environmental factors and rental demand
+- Correlation insights between environmental factors and rental demand.
 
 ## ⚙️ Tools Used
 
