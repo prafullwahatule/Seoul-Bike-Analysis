@@ -36,8 +36,8 @@ Seoul-Bike-Analysis/
 ~~~
 ## 📈 Insights
 
-Bike rentals are highest during warm months and lowest in winter.
+Bike rentals are highest during warm months and lowest in winter
 
-Temperature and season show strong correlation with rental count.
+Temperature and season show strong correlation with rental count
 
-Humidity and wind speed slightly affect usage trends.
+Humidity and wind speed slightly affect usage trends
