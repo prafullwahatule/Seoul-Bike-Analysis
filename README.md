@@ -156,6 +156,7 @@ By combining **clean data**, **calculated measures**, and **interactive visuals*
 
 - **Figure 1:** KPI & Overview Dashboard  
 <img width="1378" height="786" alt="Screenshot 2025-10-27 220626" src="https://github.com/user-attachments/assets/ee271f6f-36ca-46d8-b88f-eb6d11e91d6b" />
+
 - **Figure 2:** Advanced Analysis Dashboard  
 <img width="1382" height="785" alt="Screenshot 2025-10-27 220539" src="https://github.com/user-attachments/assets/05b335e9-65be-44b5-8d7c-19b1a182042a" />
 
