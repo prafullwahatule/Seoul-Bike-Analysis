@@ -174,7 +174,7 @@ This project was created as part of a **Data Analytics learning journey** using 
 
 **👤 Name:** Prafull Wahatule  
 **📧 Email:** [prafullwahatule@gmail.com](mailto:prafullwahatule@gmail.com)  
-**💻 GitHub:** [prafull816](https://github.com/prafull816)  
+**💻 GitHub:** [prafull816](https://github.com/prafullwahatule)  
 
 ---
 
