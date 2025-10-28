@@ -9,8 +9,6 @@ This Power BI project focuses on analyzing the Seoul Bike Sharing dataset to ide
 The dataset contains hourly data of rented bikes, weather conditions, and operational details.
 Through data cleaning, transformation, and visualization, this report helps understand how temperature, humidity, rainfall, and time patterns affect user behavior.
 
-The dashboard provides interactive insights, seasonal comparisons, and advanced visuals for data-driven decision-making.
-
 The dashboard provides **interactive insights**, **seasonal patterns**, and **data-driven visuals** to support better decision-making for **urban mobility planning**.
 
 ---
